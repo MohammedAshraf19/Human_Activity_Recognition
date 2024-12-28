@@ -1,3 +1,5 @@
+![image1](https://github.com/user-attachments/assets/9155b1ca-564f-4121-b155-ea6753ca7961)
+
 # IcareU: Human Activity Recognition (HAR) System for Elderly Care
 
 IcareU is a comprehensive mobile application designed for detecting activities and falls among elderly individuals, providing timely notifications to mentors for immediate assistance. The app utilizes mobile sensors and machine learning models to achieve this functionality.
